@@ -4,73 +4,268 @@
 
 ## Overview
 
-The Developer Template Library is a curated collection of code templates and best practices for developers, designed to accelerate and streamline the application development process. Whether you're a seasoned developer looking to save time on routine tasks or a beginner eager to learn and adopt industry-standard practices, this library has something for you.
+The Developer Template Library is a comprehensive resource designed to streamline and expedite the application development process. It provides a curated collection of code templates, snippets, and best practices, allowing developers to quickly copy and paste common elements into their projects. This README provides an overview of the library's organization and how to navigate it effectively.
+
+## Library Structure
+
+The library is organized into different development areas, each containing both front-end and back-end templates.
+
+### User Authentication
+
+- **Frontend**
+  - React
+  - Angular
+  - Vue.js
+  - ...
+
+- **Backend**
+  - Node.js (Express.js)
+  - Ruby on Rails
+  - Django (Python)
+  - ...
+
+### RESTful API Development
+
+- **Frontend**
+  - React
+  - Angular
+  - Vue.js
+  - ...
+
+- **Backend**
+  - Node.js (Express.js)
+  - Ruby on Rails
+  - Django (Python)
+  - ...
+
+### Front-End Framework Starters
+
+- React
+- Angular
+- Vue.js
+- ...
+
+### Database Schema Design
+
+- Frontend
+  - React
+  - Angular
+  - Vue.js
+  - ...
+
+- Backend
+  - Node.js (Express.js)
+  - Ruby on Rails
+  - Django (Python)
+  - ...
+
+### Logging and Error Handling
+
+- Frontend
+  - React
+  - Angular
+  - Vue.js
+  - ...
+
+- Backend
+  - Node.js (Express.js)
+  - Ruby on Rails
+  - Django (Python)
+  - ...
+
+### Unit Testing
+
+- Frontend
+  - React
+  - Angular
+  - Vue.js
+  - ...
+
+- Backend
+  - Node.js (Express.js)
+  - Ruby on Rails
+  - Django (Python)
+  - ...
+
+### Responsive Web Design
+
+- Frontend
+  - Bootstrap
+  - Foundation
+  - Materialize
+  - ...
+
+### Deployment and CI/CD
+
+- Frontend
+  - React Deployment
+  - Angular Deployment
+  - Vue.js Deployment
+  - ...
+
+- Backend
+  - Node.js (Express.js) Deployment
+  - Ruby on Rails Deployment
+  - Django (Python) Deployment
+  - ...
+
+### Security Best Practices
+
+- Frontend
+  - React Security
+  - Angular Security
+  - Vue.js Security
+  - ...
+
+- Backend
+  - Node.js (Express.js) Security
+  - Ruby on Rails Security
+  - Django (Python) Security
+  - ...
+
+### Data Visualization
+
+- Frontend
+  - D3.js
+  - Chart.js
+  - Highcharts
+  - ...
+
+- Backend
+  - (No backend templates needed for data visualization)
+
+### Containerization and Microservices
+
+- Frontend
+  - Docker and Kubernetes (Frontend)
+  - ...
+
+- Backend
+  - Docker and Kubernetes (Backend)
+  - ...
+
+### Serverless Functions
+
+- Frontend
+  - (No frontend templates needed for serverless functions)
+
+- Backend
+  - AWS Lambda (Backend)
+  - Azure Functions (Backend)
+  - ...
+
+### Documentation and Readmes
+
+- Frontend
+  - Documentation and Readmes (Frontend)
+  - ...
+
+- Backend
+  - Documentation and Readmes (Backend)
+  - ...
+
+### Mobile App Development
+
+- Frontend
+  - React Native
+  - Flutter
+  - ...
+
+- Backend
+  - Node.js (Express.js)
+  - Ruby on Rails
+  - Django (Python)
+  - ...
+
+### Machine Learning and Data Science
+
+- Frontend
+  - Data Visualization (Frontend)
+  - ...
+
+- Backend
+  - TensorFlow and Keras (Python)
+  - PyTorch (Python)
+  - Scikit-Learn (Python)
+  - ...
+
+### DevOps and CI/CD
+
+- Frontend
+  - CI/CD for Frontend
+  - ...
+
+- Backend
+  - CI/CD for Backend
+  - ...
+
+### Game Development
+
+- Frontend
+  - Unity (C#)
+  - Godot Engine (GDScript)
+  - Unreal Engine (C++)
+  - ...
+
+- Backend
+  - Game Logic (Backend)
+  - Multiplayer Features (Backend)
+  - ...
+
+### Blockchain and Smart Contracts
+
+- Frontend
+  - Blockchain User Interfaces
+  - ...
+
+- Backend
+  - Smart Contract Development
+  - Blockchain Integration (Backend)
+  - ...
+
+### Desktop Application Development
+
+- Frontend
+  - Desktop App User Interfaces
+  - ...
+
+- Backend
+  - Desktop App Logic
+  - Data Management (Backend)
+  - ...
+
+## Navigating the Library
+
+To efficiently navigate the library and find the templates you need:
+
+1. **Choose a Development Area**: Start by selecting the development area that matches your project requirements.
+
+2. **Select Frontend or Backend**: Depending on your focus, navigate to the "Frontend" or "Backend" directory under the chosen development area.
+
+3. **Explore Frameworks and Technologies**: Within the "Frontend" or "Backend" directory, you'll find various subdirectories corresponding to different frameworks or technologies. Select the one that aligns with your project's stack.
+
+4. **Access Templates**: Inside the framework-specific directory, you'll find the templates, code snippets, and best practices tailored to that technology. You can easily copy and paste these elements into your project.
 
 ## Key Features
 
-- 🚀 **Efficient Development**: Save time and effort with a wide range of templates for common development tasks.
+- 🚀 **Efficient Development**: Save time by using templates for common development tasks in both front-end and back-end development.
 - 🔒 **Code Quality**: Maintain high code quality with well-documented, standardized code snippets.
 - 🌐 **Versatility**: Templates cover various programming languages, frameworks, and domains.
 - 🧰 **Customization**: Easily adapt templates to suit your project's specific needs.
 - 🌱 **Community-Driven**: Contribute your own templates and improvements to benefit the community.
 - 📚 **Documentation**: Comprehensive documentation and usage examples for each template.
 
-## Templates Included
-
-The library provides templates for a wide range of development areas, including but not limited to:
-
-- [x] User Authentication
-- [x] RESTful API Development
-- [x] Front-End Framework Starters
-- [x] Database Schema Design
-- [x] Logging and Error Handling
-- [x] Unit Testing
-- [x] Responsive Web Design
-- [x] Deployment and CI/CD
-- [x] Security Best Practices
-- [x] Data Visualization
-- [x] Containerization and Microservices
-- [x] Serverless Functions
-- [x] Documentation and Readmes
-- [x] Mobile App Development
-- [x] Machine Learning and Data Science
-- [x] DevOps and CI/CD
-- [x] Game Development
-- [x] Blockchain and Smart Contracts
-- [x] Desktop Application Development
-- [x] and more!
-
-## Supported Frameworks
-
-The library includes templates for a variety of popular programming languages and frameworks, such as:
-
-- Web Development: React, Angular, Vue.js, Express.js, Django, Ruby on Rails
-- Mobile App Development: React Native, Flutter, Swift, Kotlin
-- Database Management: MySQL, PostgreSQL, MongoDB, Redis
-- Serverless Computing: AWS Lambda, Azure Functions, Google Cloud Functions
-- Microservices and Containerization: Kubernetes, Docker Swarm, Istio
-- API Development: Express.js, GraphQL with Apollo Server
-- Machine Learning and Data Science: TensorFlow, Keras, PyTorch, Scikit-Learn
-- DevOps and CI/CD: Jenkins, Travis CI, GitHub Actions
-- Data Visualization: D3.js, Chart.js, Matplotlib
-- Content Management Systems: WordPress, Drupal
-- Game Development: Unity, Godot Engine
-- UI Frameworks: Material-UI, Bootstrap, Foundation
-- E-commerce Platforms: Shopify, Magento
-- Blockchain and Smart Contracts: Ethereum, Hyperledger Fabric
-- Desktop Application Development: Electron, PyQt
-
-## How to Use
-
-Detailed instructions on how to use these templates are provided in the [Documentation](docs/), including code samples and examples for each template.
-
 ## Contributions
 
 We encourage contributions from the developer community! If you have templates or improvements to share, please see our [Contribution Guidelines](CONTRIBUTING.md) to get started.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ## Contact
 
-If you have questions or suggestions, feel free to contact us at (mailto:houssem.ouerghie@esprit.tn).
+If you have questions or suggestions, feel free to contact us at [dev-templates@example.com](mailto:dev-templates@example.com).
 
 ---
 
