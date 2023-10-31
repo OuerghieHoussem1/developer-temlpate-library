@@ -6,39 +6,40 @@
 
 The Developer Template Library is a comprehensive resource designed to streamline and expedite the application development process. It provides a curated collection of code templates, snippets, and best practices, allowing developers to quickly copy and paste common elements into their projects. This README provides an overview of the library's organization and how to navigate it effectively.
 
-## Library Structure
+<details>
+  <summary>**Library Structure**</summary>
+  
+  The library is organized into different development areas, each containing both front-end and back-end templates.
+  
+  ### User Authentication
 
-The library is organized into different development areas, each containing both front-end and back-end templates.
-
-### User Authentication
-
-- **Frontend**
-  - React
-  - Angular
-  - Vue.js
-  - ...
-
-- **Backend**
-  - Node.js (Express.js)
-  - Ruby on Rails
-  - Django (Python)
-  - ...
-
-### RESTful API Development
-
-- **Frontend**
-  - React
-  - Angular
-  - Vue.js
-  - ...
-
-- **Backend**
-  - Node.js (Express.js)
-  - Ruby on Rails
-  - Django (Python)
-  - ...
-
-### Front-End Framework Starters
+  - **Frontend**
+    - React
+    - Angular
+    - Vue.js
+    - ...
+  
+  - **Backend**
+    - Node.js (Express.js)
+    - Ruby on Rails
+    - Django (Python)
+    - ...
+  
+  ### RESTful API Development
+  
+  - **Frontend**
+    - React
+    - Angular
+    - Vue.js
+    - ...
+  
+  - **Backend**
+    - Node.js (Express.js)
+    - Ruby on Rails
+    - Django (Python)
+    - ...
+  
+  ### Front-End Framework Starters
 
 - React
 - Angular
@@ -233,18 +234,18 @@ The library is organized into different development areas, each containing both 
   - Desktop App Logic
   - Data Management (Backend)
   - ...
+</details>
 
-## Navigating the Library
+<details>
+  <summary>**Navigating the Library**</summary>
+  
+  To efficiently navigate the library and find the templates you need:
 
-To efficiently navigate the library and find the templates you need:
-
-1. **Choose a Development Area**: Start by selecting the development area that matches your project requirements.
-
-2. **Select Frontend or Backend**: Depending on your focus, navigate to the "Frontend" or "Backend" directory under the chosen development area.
-
-3. **Explore Frameworks and Technologies**: Within the "Frontend" or "Backend" directory, you'll find various subdirectories corresponding to different frameworks or technologies. Select the one that aligns with your project's stack.
-
-4. **Access Templates**: Inside the framework-specific directory, you'll find the templates, code snippets, and best practices tailored to that technology. You can easily copy and paste these elements into your project.
+  1. **Choose a Development Area**: Start by selecting the development area that matches your project requirements.
+  2. **Select Frontend or Backend**: Depending on your focus, navigate to the "Frontend" or "Backend" directory under the chosen development area.
+  3. **Explore Frameworks and Technologies**: Within the "Frontend" or "Backend" directory, you'll find various subdirectories corresponding to different frameworks or technologies. Select the one that aligns with your project's stack.
+  4. **Access Templates**: Inside the framework-specific directory, you'll find the templates, code snippets, and best practices tailored to that technology. You can easily copy and paste these elements into your project.
+</details>
 
 ## Key Features
 
@@ -265,7 +266,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have questions or suggestions, feel free to contact us at [dev-templates@example.com](mailto:dev-templates@example.com).
+If you have questions or suggestions, feel free to contact us at (mailto:houssem.ouerghie@esprit.tn).
 
 ---
 
